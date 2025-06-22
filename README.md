@@ -24,16 +24,6 @@ Built for creators, aesthetes & minimalists.
 
 🔍 Smart Filters & Categories
 
-🚀 Getting Started
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/stitch.git
-cd stitch
-flutter pub get
-flutter run
-Requires Flutter 3.x and Dart SDK
-
 🧠 Inspiration
 iOS 18 Design Language
 
