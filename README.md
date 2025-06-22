@@ -1,16 +1,64 @@
-# stitch
+🧵 Stitch
 
-A new Flutter project.
+“Wallpapers, reimagined.”
+A minimal, modern wallpaper app
+inspired by iOS 18 with a unique Stitch UI
+— soft, clean, and personal.
 
-## Getting Started
+📸 Preview
+Coming Soon
 
-This project is a starting point for a Flutter application.
+✨ New UI • Blurred Layers • Fluid Animations
+Built for creators, aesthetes & minimalists.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Features
+🎨 Stitch-Inspired Interface – iOS 18 look, made in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🖼️ Curated Wallpapers – Abstract, color-themed, and aesthetic.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚡ Fast & Smooth – Lightweight and optimized.
+
+🌗 Dark/Light Theme Adaptive
+
+📁 Offline + Favorites
+
+🔍 Smart Filters & Categories
+
+🚀 Getting Started
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/stitch.git
+cd stitch
+flutter pub get
+flutter run
+Requires Flutter 3.x and Dart SDK
+
+🧠 Inspiration
+iOS 18 Design Language
+
+Glassmorphism & Liquid UI
+
+Previous projects: WallXenix, DotPaper, Palettes
+
+🎯 More to Come
+🛠️ Wallpaper Generator Tool
+
+🧵 Custom Stitch Creator
+
+☁️ Cloud Sync (Optional)
+
+🖼️ Creator Mode for Custom Uploads
+
+🤝 Contribute
+Love minimal design?
+Want to share wallpapers or contribute to the UI?
+
+Pull requests and ideas are welcome. Let’s create together.
+
+📄 License
+MIT — Open for remixing, just credit responsibly.
+
+🧵 Created by
+Sourav Kaushik
+“Every screen deserves soul.”
